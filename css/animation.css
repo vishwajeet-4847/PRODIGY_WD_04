@@ -1,0 +1,31 @@
+@keyframes text-changer {
+
+
+    0% {
+        content: "Web developer";
+    }
+
+    50% {
+        content: "youtuber"
+
+    }
+    100%{
+        content: "Web developer";
+    }
+}
+
+@keyframes para-changer {
+
+
+    0% {
+        content: "with a strong foundation in HTML, CSS, JavaScript, and a knack for staying up-to-date with the latest web technologies";
+    }
+
+    50% {
+        content: "dedicated to crafting engaging content in coding, where creativity meets authenticity, and every video is an adventure."
+
+    }
+    100%{
+        content: "With a strong foundation in HTML, CSS, JavaScript, and a knack for staying up-to-date with the latest web technologies";
+    }
+}
