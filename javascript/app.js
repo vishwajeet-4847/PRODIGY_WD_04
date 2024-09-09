@@ -38,6 +38,7 @@ for (let index = 0; index < cards.length; index++) {
     
 }
 let pcards=document.querySelectorAll(".project-cards");
+// projects links to redirect
 let projectLinks = ["https://project--yourfrnd.repl.co/#","https://vishwajeet-4847.github.io/cyclepage/","https://vishwajeet-4847.github.io/PRODIGY_WD_01/","https://vishwajeet-4847.github.io/PRODIGY_WD_02/","https://vishwajeet-4847.github.io/Animated-Login-Form/","https://vishwajeet-4847.github.io/PRODIGY_WD_03/","https://akash-portfolio-6aju.onrender.com","https://todo-app-react-lake-rho.vercel.app/","https://vishwajeet-4847.github.io/PRODIGY_WD_05/"];
 for (let index = 0; index < pcards.length; index++) {
      pcards[index].addEventListener("click",()=>{
